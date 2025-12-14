@@ -1,6 +1,6 @@
 # Quantum Dataflow Diagrams (Qiskit)
 <img src="QFT_df_diagram.png" alt="Quantum dataflow diagram" width="700">
-This repository provides a Jupyter notebook that reproduces quantum dataflow diagrams—phase-colored, probability-weighted “threads” that visualize quantum parallelism and interference—alongside Qiskit circuit diagrams and statevector validation.
+This repository provides a Jupyter notebook that reproduces quantum dataflow diagrams-phase-colored, probability-weighted “threads” that visualize quantum parallelism and interference, alongside Qiskit circuit diagrams and statevector validation.
 
 The notebook follows the terminology and symbols used in the reference paper, including:
 - `W` / `R` (write/read interface markers),
